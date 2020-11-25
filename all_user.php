@@ -83,6 +83,5 @@ $stmt->execute(['start_letter' => $start_letter, 'status_id' => $status_id]);
     <?php } ?>
 </table>
 
-
 </body>
 </html>
